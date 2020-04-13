@@ -16,6 +16,14 @@ Gaussian Process | Gaussian Process using [GPytorch](https://gpytorch.ai/) libra
 Sparse Gaussian Process | Gaussian Process using [Pyro](pyro.ai) library | sparse_gaussian_process_pytro
 Sparse Gaussian Process | Gaussian Process using [GPytorch](https://gpytorch.ai/) library | sparse_gpytorch
 
+# To do
+[] Implement Bayesian Neural Network in comparison
+[] Implement Monte Carlo LSTM in comparison
+[] Implement Deep Ensemble Monte Carlo Droupout in comparison
+[] Implement Pyro Gaussian Process  in comparison
+[] Implement Pyro sparse Gaussian Process  in comparison
+[] Implement Gpytorch Gaussian Process  in comparison
+[] Implement Gpytorch sparse Gaussian Process  in comparison
 
 # File and folder description
 File/Folder| Description 
